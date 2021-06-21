@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "mooney:quarter_coin"
+        },
+        {
+            "item": "mooney:quarter_coin"
+        },
+        {
+            "item": "mooney:quarter_coin"
+        },
+        {
+            "item": "mooney:quarter_coin"
+        },
+        {
+            "item": "mooney:quarter_coin"
+        },
+        {
+            "item": "mooney:quarter_coin"
+        },
+        {
+            "item": "mooney:quarter_coin"
+        },
+        {
+            "item": "mooney:quarter_coin"
+        },
+        {
+            "item": "mooney:quarter_coin"
+        }
+    ],
+    "result": {
+        "item": "mooney:gibboun_coin",
+        "count": 1
+    }
+}

@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "mooney:quarter_coin"
+		}
+	],
+	"result": {
+		"item": "mooney:crescent_coin",
+		"count": 9
+	}
+}

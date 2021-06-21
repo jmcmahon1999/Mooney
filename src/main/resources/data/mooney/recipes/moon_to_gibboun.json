@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "mooney:moon_coin"
+		}
+	],
+	"result": {
+		"item": "mooney:gibboun_coin",
+		"count": 9
+	}
+}

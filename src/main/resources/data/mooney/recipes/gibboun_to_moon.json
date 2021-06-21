@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "mooney:gibboun_coin"
+        },
+        {
+            "item": "mooney:gibboun_coin"
+        },
+        {
+            "item": "mooney:gibboun_coin"
+        },
+        {
+            "item": "mooney:gibboun_coin"
+        },
+        {
+            "item": "mooney:gibboun_coin"
+        },
+        {
+            "item": "mooney:gibboun_coin"
+        },
+        {
+            "item": "mooney:gibboun_coin"
+        },
+        {
+            "item": "mooney:gibboun_coin"
+        },
+        {
+            "item": "mooney:gibboun_coin"
+        }
+    ],
+    "result": {
+        "item": "mooney:moon_coin",
+        "count": 1
+    }
+}
